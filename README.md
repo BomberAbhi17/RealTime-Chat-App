@@ -1,4 +1,4 @@
-# Text-A-Lot
+# Chat-app
 
 > A Realtime Chat Application
 
@@ -64,9 +64,7 @@ please open an issue first to discuss what you would like to change.
 
 MongoDB, Express, React, Node, Socket.IO, Chakra-UI
 
-## Hosted/Deployed
-
-https://textalot.herokuapp.com/
+ 
 
 
 ## Usage
@@ -79,10 +77,7 @@ https://textalot.herokuapp.com/
 
 ``` Or Use the guest user login feature.  ```
 
-### Clone the repository:
-```
-git clone https://github.com/SiddharthSsb11/MERN-chat-app.git
-```
+ 
 
 ### Env Variables
 
@@ -121,7 +116,5 @@ npm start
 cd frontend
 npm run build
 ```
-
-There is a Heroku postbuild script, so if you push to Heroku, no need to build manually for deployment to Heroku
 
 
